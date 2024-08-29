@@ -1,0 +1,4 @@
+se agrega esta linea en el package.json y se instala la sugerencia que nos da
+despues se vuelve correr el comando, y mostrara la cobertura, tambien creara una carpeta
+que al dar click en el index mostrara todo mas detallado y las funcionalidades que estan lista y las que faltan
+"coverage":"vitest run --coverage", /*generar el reporte de cobertura que falta probar en nuestro codigo*/
